@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>Todo.Core</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Alexiv, Чернявской Л.В.</Authors>
+    <Company>io.natk</Company>
+    <Description>Simple Todo core library (for practice)</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/ngddlc/TodoSolution</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
